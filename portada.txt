@@ -1,0 +1,14 @@
+parcial2 ETPS3
+integrantes:
+	Ronald Heriberto Abarca Rivas 25-1599-2019
+
+link repositorio github:
+	https://github.com/ronald-abarca/parcial2
+
+como ejecutar:
+	al descargar el proyecto da error
+	para solucionarlo hay que abrirlo con visual code
+	con el proyecto abierto, abrin una terminal en visual code
+	y ejecutar el comando: flutter pub get.
+	esperar un rato para que desaparescan los errores 
+	
